@@ -1,8 +1,11 @@
 # car-price-honester-backend
 
-> **Development home:** https://github.com/ImL1s/car-price-honester-backend  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/car-price-honester-backend) · [GitLab](https://gitlab.com/aa22396584/car-price-honester-backend)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/car-price-honester-backend
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/car-price-honester-backend) ·
+[Codeberg](https://codeberg.org/ImL1s/car-price-honester-backend)
 
 
 No description provided.
